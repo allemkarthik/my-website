@@ -474,7 +474,7 @@ header .navbar ul li a:hover {
   color: #fff;
   border-radius: 1rem;
   padding: 2rem;
-  width: 90%;
+  width: 95%;
   margin: auto;
   margin-top: 2rem;
 }
@@ -482,7 +482,7 @@ header .navbar ul li a:hover {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   flex-wrap: wrap;
-  gap: 1.8rem;
+  gap: 2.5rem;
 }
 .skills .container .bar {
   margin-bottom: 15px;
